@@ -1,0 +1,16 @@
+{
+  "name": "cubo-restapi-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jimliu7434/cubo-restapi-client.git",
+  "author": "jimliu <jimliu7434@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "moment": "^2.22.2",
+    "request": "^2.88.0",
+    "uuid": "^3.3.2"
+  }
+}
